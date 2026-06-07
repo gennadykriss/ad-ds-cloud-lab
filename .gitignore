@@ -1,0 +1,18 @@
+# VM artifacts
+*.vmdk
+*.vmem
+*.vmsd
+*.vmsn
+*.nvram
+*.vmx.lck/
+
+# Installation media
+*.iso
+
+# Logs & temp
+*.log
+*.tmp
+
+# OS cruft
+Thumbs.db
+.DS_Store
